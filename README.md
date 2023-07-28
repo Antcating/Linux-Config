@@ -28,8 +28,9 @@ X-KDE-RunOnDiscreteGpu=true
 Steam application has by default both set tot true, so you might want to switch both to false to fix this issue.
 
 ## Touchpad
+#### Encountered issue
 By default many distros disable touchpad while typing. While it could be useful due to lack of drivers for proper palm rejection for some of the touchpads, I found it quite annoying in some applications, that are not programmed to be used only using shortcuts. 
-
+#### Fix
 From what I read, the option to enable touchpad while typing has to be in the Setting application, on any distro I haven't seen this option in GUI without installing additional software.
 
 For GNOME the solution is this command: 
